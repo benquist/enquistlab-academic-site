@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://benquist.github.io/enquistlab-academic-site/sitemap.xml
