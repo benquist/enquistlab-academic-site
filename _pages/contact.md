@@ -32,3 +32,9 @@ nav_order: 12
 ## Opportunities
 
 For graduate student, postdoctoral, or visiting scholar inquiries, please include a brief statement of research interests and a CV in your initial email.
+
+---
+
+![Field ecology work across tropical and montane systems]({{ '/assets/img/wordpress/dsc_5672.jpg' | relative_url }})
+
+![Lab members during field campaign]({{ '/assets/img/wordpress/img_5586.jpeg' | relative_url }})

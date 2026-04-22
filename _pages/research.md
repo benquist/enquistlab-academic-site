@@ -63,17 +63,9 @@ We forecast how plant communities may respond to climate change using trait-base
 
 ---
 
-### Collaborative Initiatives
-
-We actively collaborate with local and international initiatives that support field work, synthesis, and training for students, postdocs, and collaborators. These collaborations include biodiversity forecasting and conservation planning efforts, including SPARC and related protected-area prioritization projects.
-
----
-
 ### Long-Term Ecology
 
-Our long-term work integrates repeated forest censuses, elevational transects, and distributed plot networks to quantify demographic and compositional change through time and to improve ecological prediction.
-
-![SPARC biodiversity planning map]({{ '/assets/img/wordpress/sparc_overview_map.jpg' | relative_url }})
+Our long-term work integrates repeated forest censuses, elevational transects, and distributed plot networks to quantify demographic and compositional change through time and to improve ecological prediction. Conservation and collaborative applications of this work are described on the [Conservation Impacts]({{ '/conservation/' | relative_url }}) page.
 
 ---
 

@@ -24,9 +24,7 @@ Current collaborative themes include:
 
 ### SPARC: Spatial Priorities for Species in Response to Climate Change
 
-SPARC is a collaboration involving Conservation International and international university partners to identify conservation priorities under current and future climates. The objective is to reduce extinction risk while sustaining ecosystem services.
-
-![SPARC map showing conservation priorities under climate change]({{ '/assets/img/wordpress/sparc_overview_map.jpg' | relative_url }})
+SPARC is a collaboration with Conservation International to identify conservation priorities under climate change. See the [Conservation Impacts]({{ '/conservation/' | relative_url }}) page for full details.
 
 ---
 
